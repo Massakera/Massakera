@@ -4,7 +4,7 @@
 
 **About me**
 
-- 💼 Data Analyst Intern at [Alumia Educacional](https://alumia.online)
+- 💼 Data Engineer at [HVAR Consulting](https://hvarconsulting.com.br)
 - 📈 Enrolled in a Data Engineering Nanodegree at [Udacity](https://www.udacity.com)
 - ❤️ I love writing and solving problems related to Data Structures and Algorithms using Python. Currently I'm working on the problems in ***Cracking the coding interview*** by *Gayle Laakmann Mcdowell*. You can check my progress [here](https://github.com/Massakera/craking-the-coding-intervirew-in-a-Pythonista-Style)
 
