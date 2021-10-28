@@ -1,6 +1,6 @@
 ### Hello, I'm Enzo Massaki  👋
 
-## I'm a aspiring Data Engineer from Brazil, currently pursuing a BTech degree in Data Science at Faculdade de Informática e Administração Paulista (FIAP)
+## I'm a aspiring Software Engineer from Brazil, currently pursuing a BTech degree in Data Science at Faculdade de Informática e Administração Paulista (FIAP)
 
 **About me**
 
