@@ -1,10 +1,10 @@
 ### Hello, I'm Enzo Massaki  👋
 
-## I'm a aspiring Software Engineer from Brazil, currently pursuing a BTech degree in Data Science at Faculdade de Informática e Administração Paulista (FIAP)
+## I'm a Software Engineer from Brazil, currently pursuing a BTech degree in Data Science at Faculdade de Informática e Administração Paulista (FIAP)
 
 **About me**
 
-- 💼 Software Developer at [Accurate Software](https://accurate.com.br)
+- 💼 Software Engineer at [Accurate Software](https://accurate.com.br)
 - 📈 Enrolled in a Data Engineering Nanodegree at [Udacity](https://www.udacity.com)
 - ❤️ I love writing and solving problems related to Data Structures and Algorithms using Python. Currently I'm working on the problems in ***Cracking the coding interview*** by *Gayle Laakmann Mcdowell*. You can check my progress [here](https://github.com/Massakera/craking-the-coding-intervirew-in-a-Pythonista-Style)
 
