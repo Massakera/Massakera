@@ -4,7 +4,7 @@
 
 **About me**
 
-- 💼 Software Engineer at [Accurate Software](https://accurate.com.br)
+- 💼 Software Developer at [Accurate Software](https://accurate.com.br)
 - 📈 Enrolled in a Data Engineering Nanodegree at [Udacity](https://www.udacity.com)
 - ❤️ I love writing and solving problems related to Data Structures and Algorithms using Python. Currently I'm working on the problems in ***Cracking the coding interview*** by *Gayle Laakmann Mcdowell*.
 
