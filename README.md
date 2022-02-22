@@ -1,6 +1,6 @@
 ### Hello, I'm Enzo Massaki  👋
 
-## I'm a Software Engineer from Brazil, currently pursuing a BTech degree in Data Science at Faculdade de Informática e Administração Paulista (FIAP)
+## I'm a Self Taught Software Engineer from Brazil, interested in Open Source, Virtual Machines and Lambda Calculus.
 
 **About me**
 
