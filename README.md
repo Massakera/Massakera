@@ -2,6 +2,8 @@
 
 ## I'm a Self Taught Software Engineer from Brazil, interested in Open Source, Virtual Machines and Lambda Calculus.
 
+Don't be scared with so many projects around here. I like to learn by making mistakes and correcting later.
+
 **About me**
 
 - 💼 Software Developer at [Accurate Software](https://accurate.com.br)
