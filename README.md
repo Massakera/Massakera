@@ -10,5 +10,5 @@ Don't be scared with so many projects around here. I like to learn by making mis
 - 💼 Software Engineer at [Airg]([https://accurate.com.br](https://corp.airg.com/))
 - ❤️ I love to spend time with my two cats and watching some weird anime. 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Massakera&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Massakera's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Massakera&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Massakera)](https://github.com/anuraghazra/github-readme-stats)
+
