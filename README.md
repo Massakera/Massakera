@@ -1,4 +1,4 @@
-I'm a software engineer who codes in Rust, watches anime and lifts weights. I love Deftones and Twice, but don't ask me to choose.
+I love Deftones and Twice, but don't ask me to choose.
 
 ## About me
 
