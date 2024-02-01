@@ -1,5 +1,3 @@
-I love Deftones and Twice, but don't ask me to choose.
-
 ## About me
 
 - 📚 I like to read about programming languages theory and distributed systems
